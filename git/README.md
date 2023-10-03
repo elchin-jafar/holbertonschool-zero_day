@@ -1,1 +1,1 @@
-readme file inside git directory
+readme file inside git director
